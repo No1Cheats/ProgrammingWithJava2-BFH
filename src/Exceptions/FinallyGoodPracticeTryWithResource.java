@@ -9,6 +9,7 @@ public class FinallyGoodPracticeTryWithResource {
     public static void main(String[] args) throws Exception {
 
         try (Scanner scanner = new Scanner(new File(".\\files\\noFile.txt"))){
+            //According to StackOverflow it doesn't need closing since the Scanner opens a file
                 System.out.println("Reading number from file");
                 int res = scanner.nextInt();
                 System.out.println("number is " + res);
