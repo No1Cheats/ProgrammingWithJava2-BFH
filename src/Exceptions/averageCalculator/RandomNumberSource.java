@@ -1,18 +1,28 @@
 package Exceptions.averageCalculator;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class RandomNumberSource implements INumberSource {
-    int number;
-    public RandomNumberSource(int i) {
-        number = i*16;
+    List<Integer> nums = new ArrayList<>();
+
+
+    public RandomNumberSource(int maxNums) {
+        for(int i = 0; i<maxNums;i++){
+            nums.add((int)(100*Math.random()));
+        }
     }
 
     @Override
     public boolean hasMoreNumbers() {
-        return false;
+        if(nums.isEmpty()){
+            return false;
+        }
+        return true;
     }
 
     @Override
     public int nextNumber() {
-        return 0;
+        return nums.remove(0);
     }
 }

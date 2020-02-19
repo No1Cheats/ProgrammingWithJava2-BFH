@@ -4,5 +4,5 @@ public interface INumberSource {
 
     boolean hasMoreNumbers();
 
-    int nextNumber();
+    int nextNumber() throws InvalidNumberException;
 }
