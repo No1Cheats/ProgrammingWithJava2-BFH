@@ -15,11 +15,11 @@ public class CopyBytes {
         FileOutputStream out = null;
 
         try {
-            in = new FileInputStream(".\\files\\image.png");
-            out = new FileOutputStream(".\\files\\image copy.png");
+            in = new FileInputStream("src/FileIO/files/image.png");
+            out = new FileOutputStream("src/FileIO/files/image copy.png");
             int c;
 
-            while ((c = in.read()) != -1) {
+            while ((c = in.read()) >= 0) {
                 out.write(c);
             }
         } finally {

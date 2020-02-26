@@ -15,12 +15,16 @@ public class StringNumberSource implements INumberSource {
     }
 
     public int nextNumber() throws InvalidNumberException {
-        String s = strings[pos++];
+        String s = null; //Not good there is a possibility for a Out of Bounds exception see how it is implemented in RandomNumberException
         try {
+            s = strings[pos++];
             return Integer.parseInt(s);
         }
         catch (NumberFormatException ex) {
             throw new InvalidNumberException(ex, s);
+        }
+        catch (ArrayIndexOutOfBoundsException ex){
+            throw new InvalidNumberException(ex);
         }
    }
 }
