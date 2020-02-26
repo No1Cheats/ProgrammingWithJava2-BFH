@@ -8,7 +8,7 @@ public class Main {
         //Creating the directory people.csv if it doesn't already exist
         File file = new File("src/FileIO/people.split");
         boolean directoryCreated = file.mkdir();
-        if(directoryCreated){
+        if (directoryCreated) {
             System.out.println("Directory created");
         }
 
@@ -20,7 +20,7 @@ public class Main {
                 String[] values = line.split(",");
                 FileWriter fw = new FileWriter("src/FileIO/people.split/" + values[1].charAt(0) + ".split", true);
                 bw = new BufferedWriter(fw);
-                bw.write(line + System.lineSeparator());
+                bw.write(line);
                 bw.flush();
             }
             bw.close();
