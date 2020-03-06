@@ -2,6 +2,8 @@ package ch.bfh.http;
 
 import com.fasterxml.jackson.core.JsonFactory;
 import com.fasterxml.jackson.core.JsonGenerator;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.node.ObjectNode;
 
 import java.io.*;
 import java.net.Socket;
@@ -57,6 +59,11 @@ public class RequestHandler implements Runnable {
         //       name starts with the search argument.
         //       Return the search result as a JSON array using the
         //       generator object.
+
+        ObjectMapper mapper = new ObjectMapper();
+        ObjectNode node = mapper.readValue(new File("src/XmlJsonApi/JsonServer/post.json"), ObjectNode.class);
+        System.out.println(node.get("Java").asText());
+
 
         // Close JSON generator and string writer
         generator.close();
