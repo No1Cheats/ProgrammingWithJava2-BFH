@@ -3,9 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ProgrammingWithJava2-BFH.iml" filepath="$PROJECT_DIR$/ProgrammingWithJava2-BFH.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/XmlJsonApi/JsonServer/jackson.iml" filepath="$PROJECT_DIR$/src/XmlJsonApi/JsonServer/jackson.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/XmlJsonApi/JsonClient/jackson (1).iml" filepath="$PROJECT_DIR$/src/XmlJsonApi/JsonClient/jackson (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/XmlJsonApi/jackson/jackson (2).iml" filepath="$PROJECT_DIR$/src/XmlJsonApi/jackson/jackson (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Collections/collections/collections.iml" filepath="$PROJECT_DIR$/src/Collections/collections/collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Collections/exCollections/exCollections.iml" filepath="$PROJECT_DIR$/src/Collections/exCollections/exCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/XmlJsonApi/JsonClientSolution/jackson.iml" filepath="$PROJECT_DIR$/src/XmlJsonApi/JsonClientSolution/jackson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/XmlJsonApi/jackson/jackson (1).iml" filepath="$PROJECT_DIR$/src/XmlJsonApi/jackson/jackson (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/XmlJsonApi/JsonClient/jackson (2).iml" filepath="$PROJECT_DIR$/src/XmlJsonApi/JsonClient/jackson (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/XmlJsonApi/JsonServer/jackson (3).iml" filepath="$PROJECT_DIR$/src/XmlJsonApi/JsonServer/jackson (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/XmlJsonApi/JsonServerSolution/jackson (4).iml" filepath="$PROJECT_DIR$/src/XmlJsonApi/JsonServerSolution/jackson (4).iml" />
     </modules>
   </component>
 </project>

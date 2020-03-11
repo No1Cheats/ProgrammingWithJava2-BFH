@@ -9,12 +9,20 @@
         <module name="jackson (1)" />
         <module name="jackson (2)" />
         <module name="jackson" />
+        <module name="collections" />
+        <module name="jackson (3)" />
+        <module name="jackson (4)" />
+        <module name="exCollections" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="collections" target="1.8" />
+      <module name="exCollections" target="1.8" />
       <module name="jackson" target="1.8" />
       <module name="jackson (1)" target="1.8" />
       <module name="jackson (2)" target="1.8" />
+      <module name="jackson (3)" target="1.8" />
+      <module name="jackson (4)" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
