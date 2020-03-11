@@ -18,11 +18,6 @@ public class JsonClient {
 
             if (search.length() > 0) {
 
-                // TODO: Contact your Json Server, read the
-                //       returned results and translate the
-                //       result into java objects and arrays.
-                //       Show the results as a list in the
-                //       console.
             }
 
         } while (search.length() > 0);

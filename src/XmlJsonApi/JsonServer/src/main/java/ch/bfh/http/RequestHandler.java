@@ -54,12 +54,6 @@ public class RequestHandler implements Runnable {
         StringWriter json = new StringWriter(512);
         JsonGenerator generator = factory.createGenerator(json);
 
-        // TODO: Get the search argument and find all person objects
-        //       (from the files of the previous exercise) where the
-        //       name starts with the search argument.
-        //       Return the search result as a JSON array using the
-        //       generator object.
-
         ObjectMapper mapper = new ObjectMapper();
         ObjectNode node = mapper.readValue(new File("src/XmlJsonApi/JsonServer/post.json"), ObjectNode.class);
         System.out.println(node.get("Java").asText());
