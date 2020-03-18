@@ -8,8 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/src/XmlJsonApi/JsonClientSolution/jackson.iml" filepath="$PROJECT_DIR$/src/XmlJsonApi/JsonClientSolution/jackson.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/XmlJsonApi/jackson/jackson (1).iml" filepath="$PROJECT_DIR$/src/XmlJsonApi/jackson/jackson (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/src/XmlJsonApi/JsonClient/jackson (2).iml" filepath="$PROJECT_DIR$/src/XmlJsonApi/JsonClient/jackson (2).iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/XmlJsonApi/JsonServer/jackson (3).iml" filepath="$PROJECT_DIR$/src/XmlJsonApi/JsonServer/jackson (3).iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/XmlJsonApi/JsonServerSolution/jackson (4).iml" filepath="$PROJECT_DIR$/src/XmlJsonApi/JsonServerSolution/jackson (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/XmlJsonApi/JsonClientSolution/jackson (3).iml" filepath="$PROJECT_DIR$/src/XmlJsonApi/JsonClientSolution/jackson (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/XmlJsonApi/JsonServer/jackson (4).iml" filepath="$PROJECT_DIR$/src/XmlJsonApi/JsonServer/jackson (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/XmlJsonApi/JsonServerSolution/jackson (5).iml" filepath="$PROJECT_DIR$/src/XmlJsonApi/JsonServerSolution/jackson (5).iml" />
     </modules>
   </component>
 </project>

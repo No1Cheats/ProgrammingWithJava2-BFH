@@ -8,10 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="jackson (1)" />
         <module name="jackson (2)" />
-        <module name="jackson" />
         <module name="collections" />
         <module name="jackson (3)" />
         <module name="jackson (4)" />
+        <module name="jackson (5)" />
         <module name="exCollections" />
       </profile>
     </annotationProcessing>
@@ -23,6 +23,7 @@
       <module name="jackson (2)" target="1.8" />
       <module name="jackson (3)" target="1.8" />
       <module name="jackson (4)" target="1.8" />
+      <module name="jackson (5)" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
