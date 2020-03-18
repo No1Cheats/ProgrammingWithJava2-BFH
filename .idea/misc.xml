@@ -3,13 +3,13 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/XmlJsonApi/JsonServer/pom.xml" />
-        <option value="$PROJECT_DIR$/src/XmlJsonApi/JsonClient/pom.xml" />
         <option value="$PROJECT_DIR$/src/XmlJsonApi/jackson/pom.xml" />
+        <option value="$PROJECT_DIR$/src/XmlJsonApi/JsonClient/pom.xml" />
+        <option value="$PROJECT_DIR$/src/XmlJsonApi/JsonClientSolution/pom.xml" />
+        <option value="$PROJECT_DIR$/src/XmlJsonApi/JsonServer/pom.xml" />
+        <option value="$PROJECT_DIR$/src/XmlJsonApi/JsonServerSolution/pom.xml" />
         <option value="$PROJECT_DIR$/src/Collections/collections/pom.xml" />
         <option value="$PROJECT_DIR$/src/Collections/exCollections/pom.xml" />
-        <option value="$PROJECT_DIR$/src/XmlJsonApi/JsonClientSolution/pom.xml" />
-        <option value="$PROJECT_DIR$/src/XmlJsonApi/JsonServerSolution/pom.xml" />
       </list>
     </option>
   </component>
