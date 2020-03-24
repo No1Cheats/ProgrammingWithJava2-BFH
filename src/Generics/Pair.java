@@ -18,6 +18,11 @@ public class Pair<S, T> {
 		return this.second;
 	}
 
+	@Override
+	public String toString() {
+		return "[" + first + "," + second + "]";
+	}
+
 	public static void main(String[] args) {
 
 		Pair<String, Integer> pair1 = new Pair<>("HelloWorld", 100);
