@@ -3,6 +3,17 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/Collections/collections/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/Collections/exCollections/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-BorderPane/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-BorderPane/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-HelloWorld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-LayoutSample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-LayoutSample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-Smiley/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-Smiley/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-TwoViews-OneController/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-TwoViews-OneController/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-TwoViews/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-TwoViews/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/XmlJsonApi/JsonClient/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/XmlJsonApi/JsonClientSolution/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/XmlJsonApi/JsonServer/src/main/java" charset="UTF-8" />

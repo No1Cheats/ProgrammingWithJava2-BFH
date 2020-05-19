@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-LayoutSample/JafaFX.iml" filepath="$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-LayoutSample/JafaFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-BorderPane/JafaFX (1).iml" filepath="$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-BorderPane/JafaFX (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-HelloWorld/JafaFX (2).iml" filepath="$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-HelloWorld/JafaFX (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-Smiley/JafaFX (3).iml" filepath="$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-Smiley/JafaFX (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-TwoViews/JafaFX (4).iml" filepath="$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-TwoViews/JafaFX (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-TwoViews-OneController/JafaFX (5).iml" filepath="$PROJECT_DIR$/src/JavaFX_TornadoFX/JavaFX-TwoViews-OneController/JafaFX (5).iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgrammingWithJava2-BFH.iml" filepath="$PROJECT_DIR$/ProgrammingWithJava2-BFH.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/Collections/collections/collections.iml" filepath="$PROJECT_DIR$/src/Collections/collections/collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/Collections/exCollections/exCollections.iml" filepath="$PROJECT_DIR$/src/Collections/exCollections/exCollections.iml" />

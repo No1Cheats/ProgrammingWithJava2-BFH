@@ -6,24 +6,36 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="JafaFX" />
         <module name="jackson (1)" />
-        <module name="jackson (2)" />
-        <module name="jackson" />
         <module name="collections" />
-        <module name="jackson (3)" />
-        <module name="jackson (4)" />
+        <module name="JafaFX (4)" />
         <module name="exCollections" />
+        <module name="jackson (2)" />
+        <module name="JafaFX (5)" />
+        <module name="jackson (3)" />
+        <module name="jackson" />
+        <module name="jackson (4)" />
+        <module name="JafaFX (1)" />
+        <module name="JafaFX (2)" />
+        <module name="JafaFX (3)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="collections" target="1.8" />
       <module name="exCollections" target="1.8" />
+      <module name="FXML_Exercises" target="11" />
       <module name="jackson" target="1.8" />
       <module name="jackson (1)" target="1.8" />
       <module name="jackson (2)" target="1.8" />
       <module name="jackson (3)" target="1.8" />
       <module name="jackson (4)" target="1.8" />
-      <module name="jackson (5)" target="1.8" />
+      <module name="JafaFX" target="11" />
+      <module name="JafaFX (1)" target="11" />
+      <module name="JafaFX (2)" target="11" />
+      <module name="JafaFX (3)" target="11" />
+      <module name="JafaFX (4)" target="11" />
+      <module name="JafaFX (5)" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
