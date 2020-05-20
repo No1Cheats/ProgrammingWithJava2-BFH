@@ -67,7 +67,7 @@ public class Series<V> implements Iterator<V> {
             @Override
             public V next() {
                 V next = parent.next();
-                return function.apply(next);
+                return function.apply(next); //This is where its at function is applied before it is returned
             }
 
             @Override
